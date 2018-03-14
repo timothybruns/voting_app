@@ -1,3 +1,11 @@
+
+## Disclaimer
+
+* This application was built with the help of a module-based tutorial from "Fullstack React: The Complete Guide to ReactJS and Friends" by the brilliant folks at Fullstack.io
+
+* See https://www.fullstackreact.com/ for more info!
+
+
 ### Running the app
 
 1. Ensure you have `npm` installed.
